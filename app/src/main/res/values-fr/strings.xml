@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rikkeisoft</string>
+    <string name="click_here">Cliquez ici</string>
+    <string name="do_something">Faire quelque chose</string>
+    <string name="have_fun">S\'amuser</string>
+    <string name="surprise">Surprise</string>
+</resources>
